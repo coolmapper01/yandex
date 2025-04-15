@@ -7,8 +7,8 @@
 "zoomControl" : false,
 "screenLockRot" : false,
 "reload" : false,
-"shouldOverrideUrlLoading1" : "http",
+"shouldOverrideUrlLoading1" : "https",
 "shouldOverrideUrlLoading2" : "https",
-"loadUrl" : "http://maps.yandex.ru/?ll=#lng#%2C#lat#&z=#zoom#&l=map%2Ctrf",
+"loadUrl" : "https://maps.yandex.ru/?ll=#lng#%2C#lat#&z=#zoom#&l=map%2Ctrf",
 "browserLaunchLink" : "http://maps.yandex.ru/?ll=#lng#%2C#lat#&z=#zoom#&l=map%2Ctrf"
 }
